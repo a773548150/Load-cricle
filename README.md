@@ -4,5 +4,5 @@ H5 canvas
 
 下面是示例图：
 
-![Image of load](https://raw.githubusercontent.com/a773548150/-Sophomore-s-summer-vacation/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20170725191116.png)
+![Gif of load](https://raw.githubusercontent.com/a773548150/-Sophomore-s-summer-vacation/master/20170725_211300.gif)
 
